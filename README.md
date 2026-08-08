@@ -70,11 +70,4 @@ The model is evaluated using:
 
 Training and validation accuracy/loss are also visualized to understand the model's performance.
 
-## 📁 Project Files
 
-```text
-CodeAlpha_HandwrittenCharacterRecognition/
-│
-├── Handwritten_Character_Recognition.ipynb
-├── README.md
-└── requirements.txt
